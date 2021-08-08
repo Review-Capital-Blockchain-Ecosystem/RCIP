@@ -1,4 +1,4 @@
-## <img src="<img src="https://i.ibb.co/XXqbxfC/223221898-897167374227207-3275676698426224059-n.png" alt="223221898-897167374227207-3275676698426224059-n" border="0" />" width = "50 px" /> News (NEWS)
+## <img src="<img src="https://i.ibb.co/XXqbxfC/223221898-897167374227207-3275676698426224059-n.png" width = "50 px" />" News (NEWS)
 NEWS is a ZRC-2 token used across all applications of Review Capital network to bring decentralized utilities over news portal industry.
 
 Last Updated: August 08, 2021
